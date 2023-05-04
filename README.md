@@ -25,3 +25,5 @@ This project automates various tasks in the Fetch Wallet using Python and Seleni
    ```
 
 The script will now perform the automation tasks on the Fetch Wallet.
+
+[Automate_fetch_wallet](https://user-images.githubusercontent.com/132581525/236232086-00570e9d-3818-4942-bc29-1da13cbeaaea.webm)
